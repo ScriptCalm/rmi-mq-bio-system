@@ -1,5 +1,8 @@
 # RMI-MQ-Bio-System
 
+> Architecture and workflow diagrams are available on request.
+
+
 A distributed Java application built using RMI for synchronous client-server communication and JMS (via WildFly) for asynchronous audit logging. Users can add, update, and list biographies, which are then sent to a message queue and logged by a dedicated logger service.
 
 ## 1. Development Tools and Technologies
